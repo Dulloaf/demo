@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Usuarios": [
+    { "id": 2, "nomUsuario": "Alice", "correoUsuario": "alice@example.com", "passUsuario": "password1", "repassUsuario": "password1" },
+    { "id": 3, "nomUsuario": "Bob", "correoUsuario": "bob@example.com", "passUsuario": "password2", "repassUsuario": "password2" },
+    { "id": 4, "nomUsuario": "Charlie", "correoUsuario": "charlie@example.com", "passUsuario": "password3", "repassUsuario": "password3" },
+    { "id": 5, "nomUsuario": "David", "correoUsuario": "david@example.com", "passUsuario": "password4", "repassUsuario": "password4" },
+    { "id": 6, "nomUsuario": "Eva", "correoUsuario": "eva@example.com", "passUsuario": "password5", "repassUsuario": "password5" },
+    { "id": 7, "nomUsuario": "Frank", "correoUsuario": "frank@example.com", "passUsuario": "password6", "repassUsuario": "password6" },
+    { "id": 8, "nomUsuario": "Grace", "correoUsuario": "grace@example.com", "passUsuario": "password7", "repassUsuario": "password7" },
+    { "id": 9, "nomUsuario": "Henry", "correoUsuario": "henry@example.com", "passUsuario": "password8", "repassUsuario": "password8" },
+    { "id": 10, "nomUsuario": "Ivy", "correoUsuario": "ivy@example.com", "passUsuario": "password9", "repassUsuario": "password9" },
+    { "id": 11, "nomUsuario": "Jack", "correoUsuario": "jack@example.com", "passUsuario": "password10", "repassUsuario": "password10" },
+    { "id": 12, "nomUsuario": "Karen", "correoUsuario": "karen@example.com", "passUsuario": "password11", "repassUsuario": "password11" },
+    { "id": 13, "nomUsuario": "Leo", "correoUsuario": "leo@example.com", "passUsuario": "password12", "repassUsuario": "password12" },
+    { "id": 14, "nomUsuario": "Mia", "correoUsuario": "mia@example.com", "passUsuario": "password13", "repassUsuario": "password13" },
+    { "id": 15, "nomUsuario": "Nathan", "correoUsuario": "nathan@example.com", "passUsuario": "password14", "repassUsuario": "password14" },
+    { "id": 16, "nomUsuario": "Olivia", "correoUsuario": "olivia@example.com", "passUsuario": "password15", "repassUsuario": "password15" },
+    { "id": 17, "nomUsuario": "Peter", "correoUsuario": "peter@example.com", "passUsuario": "password16", "repassUsuario": "password16" },
+    { "id": 18, "nomUsuario": "Quinn", "correoUsuario": "quinn@example.com", "passUsuario": "password17", "repassUsuario": "password17" },
+    { "id": 19, "nomUsuario": "Rose", "correoUsuario": "rose@example.com", "passUsuario": "password18", "repassUsuario": "password18" },
+    { "id": 20, "nomUsuario": "Sam", "correoUsuario": "sam@example.com", "passUsuario": "password19", "repassUsuario": "password19" },
+    { "id": 21, "nomUsuario": "Tina", "correoUsuario": "tina@example.com", "passUsuario": "password20", "repassUsuario": "password20" },
+    { "id": 22, "nomUsuario": "Ulysses", "correoUsuario": "ulysses@example.com", "passUsuario": "password21", "repassUsuario": "password21" },
+    { "id": 23, "nomUsuario": "Violet", "correoUsuario": "violet@example.com", "passUsuario": "password22", "repassUsuario": "password22" },
+    { "id": 24, "nomUsuario": "Walter", "correoUsuario": "walter@example.com", "passUsuario": "password23", "repassUsuario": "password23" },
+    { "id": 25, "nomUsuario": "Xena", "correoUsuario": "xena@example.com", "passUsuario": "password24", "repassUsuario": "password24" },
+    { "id": 26, "nomUsuario": "Yasmine", "correoUsuario": "yasmine@example.com", "passUsuario": "password25", "repassUsuario": "password25" },
+    { "id": 27, "nomUsuario": "Zack", "correoUsuario": "zack@example.com", "passUsuario": "password26", "repassUsuario": "password26" },
+    { "id": 28, "nomUsuario": "Amy", "correoUsuario": "amy@example.com", "passUsuario": "password27", "repassUsuario": "password27" },
+    { "id": 29, "nomUsuario": "Brian", "correoUsuario": "brian@example.com", "passUsuario": "password28", "repassUsuario": "password28" },
+    { "id": 30, "nomUsuario": "Cathy", "correoUsuario": "cathy@example.com", "passUsuario": "password29", "repassUsuario": "password29" }
+  ]
 }
+
